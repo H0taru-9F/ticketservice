@@ -1,0 +1,53 @@
+.App-header{
+    box-shadow: 0 6px 4px 0 rgba(0,0,0,0.2), 0 4px 10px 0 rgba(0,0,0,0.19);
+    height: 80px;
+    flex-shrink: 0;
+}
+.Logo-header{
+    display: flex;
+    align-items: center;
+    margin-left: -40px;
+}
+.SVG-logo-header{
+    width: 60px;
+    height: 60px;
+    flex-shrink: 0;
+}
+.title-logo-header{
+    margin: 0;
+    width: 140px;
+    height: 36px;
+    flex-shrink: 0;
+    text-align: center;
+}
+.button-login{
+    margin-left: 20px;
+    margin-right: -40px;
+    display: inline-flex;
+    padding: 13px 35px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border: none;
+    border-radius: 50px;
+}
+.button-header{
+    text-align: center;
+}
+/*.Home-header{*/
+/*    width: 110px;*/
+/*    height: 24px;*/
+/*    flex-shrink: 0;*/
+/*    margin-bottom: 3%;*/
+/*    margin-left: -8%;*/
+/*}*/
+.Branches{
+    width: 90px;
+    height: 24px;
+    flex-shrink: 0;
+}
+.BusTickets{
+    width: 100px;
+    height: 24px;
+    flex-shrink: 0;
+}
